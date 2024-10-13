@@ -3,6 +3,7 @@
 build/
 
 node_modules/
+DS_Store
 # Local configuration file (sdk path, etc)
 local.properties
 
